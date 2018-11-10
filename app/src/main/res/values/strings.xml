@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="Email">Email</string>
+    <string name="descripcion_contacto">Descripción contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="validate">Validate</string>
+    <string name="mandatory">This field is mandatory</string>
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="Fecha">Fecha</string>
+</resources>
